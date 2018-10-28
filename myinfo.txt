@@ -1,1 +1,3 @@
 "Name: Usman Fayyaz" 
+email: usman.fayyaz@ucp.edu.pk
+facaulty of information and technology
